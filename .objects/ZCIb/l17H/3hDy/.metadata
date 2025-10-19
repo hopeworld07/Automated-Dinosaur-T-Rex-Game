@@ -1,0 +1,13 @@
+﻿{
+  "Name": "T-Rex Game – Google Dino Run",
+  "Type": "Screen",
+  "Id": "3hDyb8JgAUmL8XnYqmPT4Q",
+  "Reference": "HMG6CnEEik-UoyOV57uxiQ/3hDyb8JgAUmL8XnYqmPT4Q",
+  "ParentRef": "HMG6CnEEik-UoyOV57uxiQ/l17HpImzRUmfftapA5G7_A",
+  "Created": "2025-09-20T17:26:27.9918296Z",
+  "Updated": "2025-09-20T17:26:27.9918296Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

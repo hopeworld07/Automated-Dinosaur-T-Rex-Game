@@ -1,0 +1,16 @@
+﻿{
+  "Name": "role",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "WSsJ6xhKjU2EDJlGsr6tJg",
+  "Reference": "HMG6CnEEik-UoyOV57uxiQ/WSsJ6xhKjU2EDJlGsr6tJg",
+  "ParentRef": "HMG6CnEEik-UoyOV57uxiQ/0xeHLggpvU-_4Ev9W3V_kg",
+  "Created": "2025-03-09T16:09:38.8288983Z",
+  "Updated": "2025-03-09T16:09:58.8343313Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

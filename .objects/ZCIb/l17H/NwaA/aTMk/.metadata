@@ -1,0 +1,13 @@
+﻿{
+  "Name": "CANVAS pixi-canvas",
+  "Type": "Element",
+  "Id": "aTMkgUB2rEWtZr9iJd6mNQ",
+  "Reference": "HMG6CnEEik-UoyOV57uxiQ/aTMkgUB2rEWtZr9iJd6mNQ",
+  "ParentRef": "HMG6CnEEik-UoyOV57uxiQ/NwaAbrQ3cUeO-YB38o16jQ",
+  "Created": "2025-09-20T17:23:47.7447763Z",
+  "Updated": "2025-09-20T17:23:47.7447763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

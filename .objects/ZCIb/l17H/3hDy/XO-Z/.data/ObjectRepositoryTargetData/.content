@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OGewqw4r4kmLjyek2G2KEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="584, 470, 750, 187" ElementType="Container" FullSelectorArgument="&lt;webctrl id='main-frame-error' tag='HEADER' /&gt;" Guid="e4909021-f1a3-4c86-aab9-002bcb54a589" ScopeSelectorArgument="&lt;html app='brave.exe' title='T-Rex Game – Google Dino Run' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dda338837993ac9cbc30babd353ae731.png" xmlns="">0gO17OffuY0SeG38E0gfKBw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

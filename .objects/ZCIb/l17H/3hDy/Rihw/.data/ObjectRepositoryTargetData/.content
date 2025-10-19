@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t8qKzGn4zE61EfCc-84tjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="81ea812e-d0bb-46c7-89e2-27e11fc193c7" DesignTimeRectangle="528, 234, 863, 28" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='Dinosaur T-Rex Game' /&gt;" Guid="72658919-8179-46b3-9765-263dc1cc511c" ScopeSelectorArgument="&lt;html app='brave.exe' title='T-Rex Game – Google Dino Run' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="95d5ddb3aeb67a7e41d38410c3a7707d.png" xmlns="">0HeDFZw_BnkarveKfSQr3yg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
